@@ -11,6 +11,5 @@
   - for a new item within the `ggplot2::theme` function
   - after and before curly braces `{}` when defining functions and loops
   - When breaking for 80-char compliance, content must start on the same line as the opening expression
-- Lines should never end with `(` or start with `)`
 - Whenever possible, use functions from the `tidyverse` collection of packages
 - Use comments very sparingly. The ideal code does not need any comments, but it self-documenting through variable, data set and function names
